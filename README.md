@@ -16,4 +16,8 @@ Refer to the repository 'Student-Registry-server' for instructions on setting up
 
 Using the app:
 
-x
+Enter any characters in the 'Name', 'Grade' and 'Section' fields. The 'Registration No.' field requires a numeric value.
+
+Click 'CREATE' when you are ready to add a student to the registry.
+
+If you'd like to delete a student from the registry, click the trashcan icon under 'Action' to remove them.
